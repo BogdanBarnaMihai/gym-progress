@@ -98,3 +98,4 @@ wheel==0.45.1
 wrapt==1.17.2
 yfinance==0.2.52
 zope.interface==7.2
+python-dotenv==1.0.0
